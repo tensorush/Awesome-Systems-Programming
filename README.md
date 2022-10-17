@@ -518,6 +518,8 @@
 
 - #### :man_teacher: [Writing an OS in Rust Course by Philipp Oppermann](https://os.phil-opp.com/)
 
+- #### :man_teacher: [Advanced Operating Systems Course by Gernot Heiser](https://www.cse.unsw.edu.au/~cs9242/current/)
+
 - #### :man_teacher: [Operating Systems Engineering Course by Adam Belay](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
 
 - #### :man_technologist: [Multi-tasking OS kernel for ARM Tutorial by Jim Huang](https://github.com/jserv/mini-arm-os)
