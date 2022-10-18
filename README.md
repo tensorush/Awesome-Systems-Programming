@@ -78,6 +78,8 @@
 
 ## :chains: Blockchain Technology
 
+- #### :man_teacher: [CryptoZombies Solidity Courses](https://cryptozombies.io/en/course/)
+
 - #### :tv: [Whiteboard Interviews by NEAR](https://www.youtube.com/playlist?list=PL9tzQn_TEuFWweVbfTbaedFdwVrvaYPq4)
 
 - #### :tv: [Blockchain for Beginners Videos by Bill Laboon](https://www.youtube.com/playlist?list=PLxVihxZC42nF_MCN9PTvZMIifRjx9cZ2J)
