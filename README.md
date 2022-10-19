@@ -326,6 +326,8 @@
 
 - #### :man_teacher: [Databases Course by Timothy Griffin](https://www.cl.cam.ac.uk/teaching/2122/Databases/materials.html)
 
+- #### :man_teacher: [Database Systems Courses from TUM](https://db.in.tum.de/teaching/?lang=en)
+
 - #### :tv: [Relational Databases Videos by Brian Will](https://www.youtube.com/playlist?list=PL6D2AA443FA10BBBC)
 
 - #### :tv: [Database Lessons Videos by Daniel Soper](https://www.youtube.com/playlist?list=PL1LIXLIF50uXWJ9alDSXClzNCMynac38g)
