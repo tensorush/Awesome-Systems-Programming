@@ -104,6 +104,8 @@
 
 - #### :man_teacher: [Complex Digital Systems Course by Arvind](http://csg.csail.mit.edu/6.375)
 
+- #### :man_teacher: [Electrical Engineering from Khan Academy](https://www.khanacademy.org/science/electrical-engineering)
+
 - #### :tv: [Analog Circuits Videos by Jordan Edmunds](https://www.youtube.com/playlist?list=PLQms29D1RqeKZOu_iYDCxXw8w_yydvRMS)
 
 - #### :tv: [Analog Circuit Design Videos by Ali Hajimiri](https://www.youtube.com/playlist?list=PLc7Gz02Znph-c2-ssFpRrzYwbzplXfXUT)
