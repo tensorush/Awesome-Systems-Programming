@@ -10,8 +10,6 @@
 
 ## :man_student: Collection of the most awesome learning resources on computer systems in the form of videos, courses and tutorials.
 
-> ### Contributions are very welcome! :hugs:
-
 ## Table of Contents
 
 - [:racing_car: Assembly Programming](#racing_car-assembly-programming)
