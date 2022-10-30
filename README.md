@@ -220,6 +220,8 @@
 
 - #### :man_teacher: [Computer Architecture Course by Onur Mutlu](https://safari.ethz.ch/architecture/doku.php)
 
+- #### :tv: [Systems Programming Videos by Chris Kanich](https://www.youtube.com/playlist?list=PLhy9gU5W1fvUND_5mdpbNVHC1WCIaABbP)
+
 - #### :man_teacher: [Computation Structures Course by Steve Ward](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/)
 
 - #### :man_teacher: [Computer Architecture Course by Charles Reiss](https://www.cs.virginia.edu/~cr4bd/3330/F2021/)
