@@ -368,6 +368,8 @@
 
 ## :bed: Embedded Systems
 
+- #### :tv: [IEEE Videos from UCLA](https://www.youtube.com/c/UCLAIEEE/playlists)
+
 - #### :globe_with_meridians: [Zig Embedded Group Web Site](https://zeg.random-projects.net/)
 
 - #### :man_teacher: [Real-time and Embedded Software Course by Milda Zizyte](http://cs.brown.edu/courses/csci1600/)
