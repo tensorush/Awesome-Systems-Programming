@@ -84,6 +84,8 @@
 
 - #### :book: [Mastering Bitcoin Book by Andreas Antonopoulos](https://github.com/bitcoinbook/bitcoinbook)
 
+- #### :man_teacher: [Decentralized Finance Course by Dan Boneh and others](https://defi-learning.org/)
+
 - #### :man_teacher: [Cryptocurrency Engineering and Design Course by Neha Narula and Tadge Dryja](https://ocw.mit.edu/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/)
 
 - #### :man_teacher: [Distributed and Parallel Systems Graduate Course from University of Washington](http://courses.cs.washington.edu/courses/cse552/)
