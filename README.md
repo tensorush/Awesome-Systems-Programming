@@ -372,6 +372,8 @@
 
 - #### :globe_with_meridians: [Zig Embedded Group Web Site](https://zeg.random-projects.net/)
 
+- #### :tv: [Embedded Systems Architecture Videos by Ben Juurlink](https://www.youtube.com/channel/UCPSsA8oxlSBjidJsSPdpjsQ/playlists)
+
 - #### :man_teacher: [Real-time and Embedded Software Course by Milda Zizyte](http://cs.brown.edu/courses/csci1600/)
 
 - #### :man_teacher: [Foundations of Embedded Systems Course by Cesare Tinelli](http://homepage.cs.uiowa.edu/~tinelli/classes/4980/Spring20/)
