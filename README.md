@@ -22,7 +22,7 @@
 - [:test_tube: Debugging and Testing](#test_tube-debugging-and-testing)
 - [:bed: Embedded Systems](#bed-embedded-systems)
 - [:rooster: Formal Verification](#rooster-formal-verification)
-- [:spider_web: Network Systems](#spider_web-network-systems)
+- [:spider_web: Distributed Systems](#spider_web-distributed-systems)
 - [:lady_beetle: Operating Systems](#lady_beetle-operating-systems)
 - [:space_invader: Platform Simulation](#space_invader-platform-simulation)
 - [:jigsaw: Programming Language Design](#jigsaw-programming-language-design)
@@ -418,11 +418,13 @@
 
 - #### :man_teacher: [Formal Mathematics and Proof Assistants Course by Josef Urban and Chad Brown](http://arg.ciirc.cvut.cz/fmpa/)
 
-## :spider_web: Network Systems
+## :spider_web: Distributed Systems
 
 - #### :tv: [The Internet Videos by Brian Will](https://www.youtube.com/playlist?list=PL18AF3812A53E11C5)
 
 - #### :tv: [Computer Networks Videos by Kenan Casey](https://www.youtube.com/playlist?list=PLLFIgriuZPAcCkmSTfcq7oaHcVy3rzEtc)
+
+- #### :tv: [Distributed Systems Videos by Lindsey Kuper](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx)
 
 - #### :man_teacher: [Computer Networks Course by Nirupam Roy](https://www.cs.umd.edu/class/spring2022/cmsc417/)
 
