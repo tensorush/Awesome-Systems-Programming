@@ -8,7 +8,7 @@
     <p><a href="https://twitter.com/etiennejcb/">Animation by Étienne Jacob</a></p>
 </h4>
 
-## :man_student: Collection of the most awesome learning resources on computer systems in the form of videos, courses and tutorials.
+## :man_student: Collection of the most awesome learning resources on computer systems in the form of videos, courses and tutorials
 
 ## Table of Contents
 
@@ -28,7 +28,7 @@
 - [:jigsaw: Programming Language Design](#jigsaw-programming-language-design)
 - [:rewind: Reverse Engineering](#rewind-reverse-engineering)
 
-## :racing_car: Assembly Programming
+### :racing_car: Assembly Programming
 
 - #### :man_technologist: [LLVM Tutorials](https://llvm.org/docs/tutorial/)
 
@@ -74,7 +74,7 @@
 
 - #### :book: [Programming with 64-Bit ARM Assembly Language Book by Stephen Smith](https://github.com/Apress/programming-with-64-bit-ARM-assembly-language)
 
-## :chains: Blockchain Technology
+### :chains: Blockchain Technology
 
 - #### :man_teacher: [CryptoZombies Solidity Courses](https://cryptozombies.io/en/course/)
 
@@ -92,7 +92,7 @@
 
 - #### :man_teacher: [Blockchains and Distributed Ledgers Course by Aggelos Kiayias and Dimitris Karakostas](https://github.com/dimkarakostas/blockchaincourse)
 
-## :robot: Circuit Design
+### :robot: Circuit Design
 
 - #### :man_teacher: [Cornell ECE Open Courseware](https://ocw.ece.cornell.edu/)
 
@@ -144,7 +144,7 @@
 
 - #### :book: [Parallel Programming for FPGAs Book by Ryan Kastner, Janarbek Matai and Stephen Neuendorffer](https://kastner.ucsd.edu/hlsbook/)
 
-## :dragon_face: Compiler Construction
+### :dragon_face: Compiler Construction
 
 - #### :man_teacher: [Compilers Course by Nicolas Laurent](https://norswap.com/compilers/)
 
@@ -206,7 +206,7 @@
 
 - #### :book: [Implementing Programming Languages: An Introduction to Compilers and Interpreters Book by Aarne Ranta](http://www.grammaticalframework.org/ipl-book/)
 
-## :cityscape: Computer Architecture
+### :cityscape: Computer Architecture
 
 - #### :tv: [Computation Structures Videos from MIT](https://www.youtube.com/c/VladimirVivien/playlists)
 
@@ -270,7 +270,7 @@
 
 - #### :man_teacher: [Performance Engineering of Software Systems Course by Charles Leiserson and Julian Shun](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/)
 
-## :shield: Computer Security
+### :shield: Computer Security
 
 - #### :man_teacher: [Grad Security Course by Dave Levin](https://www.cs.umd.edu/class/spring2021/cmsc614/)
 
@@ -326,7 +326,7 @@
 
 - #### :book: [High Assurance Rust: Developing Secure and Robust Software Book by Tiemoko Ballo](https://highassurance.rs/)
 
-## :card_file_box: Database Systems
+### :card_file_box: Database Systems
 
 - #### :man_teacher: [Databases Course by Timothy Griffin](https://www.cl.cam.ac.uk/teaching/2122/Databases/materials.html)
 
@@ -358,7 +358,7 @@
 
 - #### :man_teacher: [Principles of Database Management Systems Graduate Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse544/)
 
-## :test_tube: Debugging and Testing
+### :test_tube: Debugging and Testing
 
 - #### :man_teacher: [Software Testing Course by Owolabi Legunsen](https://www.cs.cornell.edu/courses/cs5154/2021fa/)
 
@@ -366,7 +366,7 @@
 
 - #### :tv: [Advanced Debugging with GDB Video by Viktor Engelmann](https://www.youtube.com/watch?v=Rudz-uSdWHM)
 
-## :bed: Embedded Systems
+### :bed: Embedded Systems
 
 - #### :tv: [IEEE Videos from UCLA](https://www.youtube.com/c/UCLAIEEE/playlists)
 
@@ -382,7 +382,7 @@
 
 - #### :man_teacher: [Introduction to Embedded Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse474/)
 
-## :rooster: Formal Verification
+### :rooster: Formal Verification
 
 - #### :film_projector: [Types Project Lecture Slides](https://www.cse.chalmers.se/research/group/logic/Types/tutorials.html)
 
@@ -418,9 +418,11 @@
 
 - #### :man_teacher: [Formal Mathematics and Proof Assistants Course by Josef Urban and Chad Brown](http://arg.ciirc.cvut.cz/fmpa/)
 
-## :spider_web: Distributed Systems
+### :spider_web: Distributed Systems
 
 - #### :tv: [The Internet Videos by Brian Will](https://www.youtube.com/playlist?list=PL18AF3812A53E11C5)
+
+- #### :man_technologist: [Distributed Systems in Rust Course](https://github.com/pingcap/talent-plan/blob/master/courses/dss/README.md)
 
 - #### :tv: [Computer Networks Videos by Kenan Casey](https://www.youtube.com/playlist?list=PLLFIgriuZPAcCkmSTfcq7oaHcVy3rzEtc)
 
@@ -437,6 +439,8 @@
 - #### :man_teacher: [Distributed Systems Course by Nick DeMarinis](http://cs.brown.edu/courses/csci1680/s22/)
 
 - #### :man_teacher: [Computer Networks Course by Rachit Agarwal](https://www.cs.cornell.edu/courses/cs4450/2021sp/)
+
+- #### :man_technologist: [Practical Networked Applications in Rust Course](https://github.com/pingcap/talent-plan/blob/master/courses/rust/README.md)
 
 - #### :man_teacher: [Distributed Computing Courses from ETH Zürich](https://disco.ethz.ch/courses)
 
@@ -492,7 +496,7 @@
 
 - #### :man_teacher: [Introduction to Computer Communication Networks Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse461/)
 
-## :lady_beetle: Operating Systems
+### :lady_beetle: Operating Systems
 
 - #### :globe_with_meridians: [OSDev Web Site](https://wiki.osdev.org/Main_Page)
 
@@ -576,7 +580,7 @@
 
 - #### :man_technologist: [Learning Operating System Development Using Linux Kernel and Raspberry Pi Tutorial by Sergey Matyukevich](https://github.com/s-matyukevich/raspberry-pi-os)
 
-## :space_invader: Platform Simulation
+### :space_invader: Platform Simulation
 
 - #### :tv: [Virtual Machine Summer School Videos](https://www.youtube.com/playlist?list=PLJq3XDLIJkib2h2fObomdFRZrQeJg4UIW)
 
@@ -592,7 +596,7 @@
 
 - #### :film_projector: [Fundamentals of Full-Platform Simulation Course Slides by Evgenii Yulyugin and Grigory Rechistov](https://github.com/yulyugin/sim-lectures)
 
-## :jigsaw: Programming Language Design
+### :jigsaw: Programming Language Design
 
 - #### :globe_with_meridians: [Hyperpolyglot Web Site](https://hyperpolyglot.org/)
 
@@ -698,7 +702,7 @@
 
 - #### :book: [Structure and Interpretation of Computer Programs Book by Harold Abelson and Gerald Jay Sussman with Julie Sussman](https://mitpress.mit.edu/sites/default/files/sicp/index.html)
 
-## :rewind: Reverse Engineering
+### :rewind: Reverse Engineering
 
 - #### :tv: [Hack the Box Videos by PinkDraconian](https://www.youtube.com/playlist?list=PLeSXUd883dhiIpCIssnYlmEiThIowWPS4)
 
