@@ -484,6 +484,8 @@
 
 - #### :man_teacher: [Data Communication Networks Course by Dimitri Bertsekas and Eytan Modiano](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/)
 
+- #### :book: [Distributed Systems for Fun and Profit Book by Mikito Takada](https://book.mixu.net/distsys/)
+
 - #### :book: [Computer Networking: A Top-down Approach Book by Jim Kurose and Keith Ross](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 
 - #### :book: [Computer Networks: A Systems Approach Book by Larry Peterson and Bruce Davie](https://book.systemsapproach.org/)
