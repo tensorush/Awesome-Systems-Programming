@@ -654,6 +654,8 @@
 
 - #### :man_teacher: [EPFL/ETH Summer School on DSL Design and Implementation](https://vjovanov.github.io/dsldi-summer-school/)
 
+- #### :book: [Counterexamples in Type Systems Book by Stephen Dolan](https://counterexamples.org/intro.html)
+
 - #### :tv: [A Programming Language for Games Videos by Jonathan Blow](https://www.youtube.com/playlist?list=PLmV5I2fxaiCKfxMBrNsU1kgKJXD3PkyxO)
 
 - #### :man_teacher: [Programming Languages Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse341/)
