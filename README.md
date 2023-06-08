@@ -502,6 +502,8 @@
 
 - #### :globe_with_meridians: [OSDev Web Site](https://wiki.osdev.org/Main_Page)
 
+- #### :book: [OSDev Notes Book](https://github.com/dreamos82/Osdev-Notes)
+
 - #### :globe_with_meridians: [OSDever Web Site](http://www.osdever.net/tutorials/)
 
 - #### :globe_with_meridians: [Unikernels Web Site](http://unikernel.org/)
