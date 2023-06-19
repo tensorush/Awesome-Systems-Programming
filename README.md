@@ -238,6 +238,8 @@
 
 - #### :man_teacher: [Concepts in Multicore Computing Course by Angelina Lee](https://www.cse.wustl.edu/~angelee/archive/cse539/spr15/)
 
+- #### :man_teacher: [Performance-Aware Programming Videos by Casey Muratori](https://www.computerenhance.com/p/table-of-contents)
+
 - #### :man_teacher: [Applications of Parallel Computers Course by David Bindel](https://www.cs.cornell.edu/courses/cs5220/2020fa/)
 
 - #### :tv: [Building a Simple Computer From Scratch Videos by Bitwise](https://www.youtube.com/playlist?list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX)
