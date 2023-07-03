@@ -208,6 +208,8 @@
 
 ### :cityscape: Computer Architecture
 
+- #### :book: [Data-Oriented Design Resources by Daniele Bartolini](https://github.com/dbartolini/data-oriented-design)
+
 - #### :tv: [Computation Structures Videos from MIT](https://www.youtube.com/c/VladimirVivien/playlists)
 
 - #### :man_teacher: [Digital Systems Course by Michael Spivey](https://spivey.oriel.ox.ac.uk/digisys/Digital_Systems)
