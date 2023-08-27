@@ -524,6 +524,8 @@
 
 - #### :man_teacher: [Operating Systems Course by Ashok Agrawala](https://www.cs.umd.edu/class/fall2021/cmsc412/)
 
+- #### :man_teacher: [Operating Systems Meetup by Jiaxiao Zhou and others](https://splvm.github.io/os-meetup/)
+
 - #### :book: [Operating Systems: From 0 to 1 Book by Tu Do](https://tuhdo.github.io/os01/)
 
 - #### :man_teacher: [Operating Systems Course by Donnie Pinkston](http://courses.cms.caltech.edu/cs124/)
