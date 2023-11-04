@@ -490,6 +490,8 @@
 
 - #### :book: [Distributed Systems for Fun and Profit Book by Mikito Takada](https://book.mixu.net/distsys/)
 
+- #### :book: [Rust Atomics and Locks: Low-Level Concurrency in Practice Book by Mara Bos](https://marabos.nl/atomics/)
+
 - #### :book: [Computer Networking: A Top-down Approach Book by Jim Kurose and Keith Ross](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 
 - #### :book: [Computer Networks: A Systems Approach Book by Larry Peterson and Bruce Davie](https://book.systemsapproach.org/)
