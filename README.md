@@ -208,6 +208,8 @@
 
 ### :cityscape: Computer Architecture
 
+- #### :tv: [Handmade Cities Videos](https://vimeo.com/handmadecities)
+
 - #### :book: [Data-Oriented Design Resources by Daniele Bartolini](https://github.com/dbartolini/data-oriented-design)
 
 - #### :tv: [Computation Structures Videos from MIT](https://www.youtube.com/c/VladimirVivien/playlists)
