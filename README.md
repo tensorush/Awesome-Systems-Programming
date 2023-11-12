@@ -428,6 +428,8 @@
 
 - #### :man_technologist: [Distributed Systems in Rust Course](https://github.com/pingcap/talent-plan/blob/master/courses/dss/README.md)
 
+- #### :man_technologist: [Low-Level Academy Course by Nikita Baksalyar](https://lowlvl.org/)
+
 - #### :tv: [Computer Networks Videos by Kenan Casey](https://www.youtube.com/playlist?list=PLLFIgriuZPAcCkmSTfcq7oaHcVy3rzEtc)
 
 - #### :tv: [Distributed Systems Videos by Lindsey Kuper](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx)
