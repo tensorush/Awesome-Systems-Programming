@@ -518,6 +518,8 @@
 
 - #### :globe_with_meridians: [Unikernels Web Site](http://unikernel.org/)
 
+- #### :globe_with_meridians: [Linux Kernel Docs Web Site](https://www.kernel.org/doc/html/latest/index.html)
+
 - #### :man_teacher: [Hack the Kernel Course](https://ops-class.org/)
 
 - #### :man_teacher: [Operating Systems Course by Eike Ritter](https://www.cs.bham.ac.uk/~exr/teaching/lectures/opsys/15_16/)
