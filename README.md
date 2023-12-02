@@ -210,6 +210,8 @@
 
 - #### :tv: [Handmade Cities Videos](https://vimeo.com/handmadecities)
 
+- #### :writing_hand: [Computer Organisation Notes by Jiahao](https://nus.woojiahao.com/)
+
 - #### :book: [Data-Oriented Design Resources by Daniele Bartolini](https://github.com/dbartolini/data-oriented-design)
 
 - #### :tv: [Computation Structures Videos from MIT](https://www.youtube.com/c/VladimirVivien/playlists)
