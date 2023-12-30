@@ -212,6 +212,8 @@
 
 - #### :writing_hand: [Computer Organisation Notes by Jiahao](https://nus.woojiahao.com/)
 
+- #### :tv: [Systems Programming Videos by Brook Jeynes](https://www.youtube.com/@chooky_)
+
 - #### :book: [Data-Oriented Design Resources by Daniele Bartolini](https://github.com/dbartolini/data-oriented-design)
 
 - #### :tv: [Computation Structures Videos from MIT](https://www.youtube.com/c/VladimirVivien/playlists)
