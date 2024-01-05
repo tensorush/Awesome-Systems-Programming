@@ -432,6 +432,8 @@
 
 - #### :tv: [The Internet Videos by Brian Will](https://www.youtube.com/playlist?list=PL18AF3812A53E11C5)
 
+- #### :book: [WebRTC For The Curious Book](https://webrtcforthecurious.com/)
+
 - #### :man_technologist: [Distributed Systems in Rust Course](https://github.com/pingcap/talent-plan/blob/master/courses/dss/README.md)
 
 - #### :man_technologist: [Low-Level Academy Course by Nikita Baksalyar](https://lowlvl.org/)
