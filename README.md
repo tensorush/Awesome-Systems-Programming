@@ -74,6 +74,8 @@
 
 - #### :book: [Programming with 64-Bit ARM Assembly Language Book by Stephen Smith](https://github.com/Apress/programming-with-64-bit-ARM-assembly-language)
 
+- #### :man_teacher: [The Secret Life of C++: What Your Compiler Doesn't Want You To Know Workshop by Richard Tibbetts](https://web.mit.edu/tibbetts/Public/inside-c/www/)
+
 ### :chains: Blockchain Technology
 
 - #### :man_teacher: [CryptoZombies Solidity Courses](https://cryptozombies.io/en/course/)
