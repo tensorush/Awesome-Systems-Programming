@@ -568,6 +568,8 @@
 
 - #### :man_technologist: [Multi-tasking OS kernel for ARM Tutorial by Jim Huang](https://github.com/jserv/mini-arm-os)
 
+- #### :man_technologist: [Linux Concurrency Programs Tutorial by Jim Huang](https://github.com/sysprog21/concurrent-programs)
+
 - #### :man_teacher: [Advanced Operating Systems Course by Robert Watson](https://www.cl.cam.ac.uk/teaching/2122/AOS/materials.html)
 
 - #### :thought_balloon: [Roll your own toy UNIX-clone OS Blog Posts by James Molloy](http://jamesmolloy.co.uk/tutorial_html/)
@@ -595,6 +597,8 @@
 - #### :man_teacher: [Baking Pi – Operating Systems Development Course by Alex Chadwick](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
 
 - #### :book: [The Little Book about OS Development by Erik Helin and Adam Renberg](https://littleosbook.github.io/)
+
+- #### :book: [The Linux Kernel Module Programming Guide Book by Peter Salzman and others](https://sysprog21.github.io/lkmpg/)
 
 - #### :man_teacher: [Introduction to Operating Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse451/)
 
