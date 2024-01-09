@@ -638,6 +638,8 @@
 
 - #### :globe_with_meridians: [Programming Languages Zoo Web Site](http://plzoo.andrej.com/)
 
+- #### :book: [Modern C Book by Jens Gustedt](https://gustedt.gitlabpages.inria.fr/modern-c/)
+
 - #### :book: [Build Your Own Lisp Book by Daniel Holden](https://buildyourownlisp.com/)
 
 - #### :book: [Programming Languages Book by OpenDSA](https://opendsa-server.cs.vt.edu/ODSA/Books/PL/html/)
