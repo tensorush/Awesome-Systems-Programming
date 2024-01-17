@@ -214,12 +214,6 @@
 
 - #### :writing_hand: [Computer Organisation Notes by Jiahao](https://nus.woojiahao.com/)
 
-- #### :tv: [CPU Architecture Videos by Mill Computing, Inc.](https://millcomputing.com/docs/)
-
-- #### :tv: [Systems Programming Videos by Brook Jeynes](https://www.youtube.com/@chooky_)
-
-- #### :book: [Data-Oriented Design Resources by Daniele Bartolini](https://github.com/dbartolini/data-oriented-design)
-
 - #### :tv: [Computation Structures Videos from MIT](https://www.youtube.com/c/VladimirVivien/playlists)
 
 - #### :man_teacher: [Digital Systems Course by Michael Spivey](https://spivey.oriel.ox.ac.uk/digisys/Digital_Systems)
@@ -238,11 +232,17 @@
 
 - #### :man_teacher: [Computation Structures Course by Steve Ward](https://ocw.mit.edu/courses/6-004-computation-structures-spring-2009/)
 
+- #### :tv: [Systems Programming Videos by Brook Jeynes](https://www.youtube.com/@chooky_)
+
 - #### :man_teacher: [Computer Architecture Course by Charles Reiss](https://www.cs.virginia.edu/~cr4bd/3330/F2021/)
+
+- #### :tv: [CPU Architecture Videos by Mill Computing, Inc.](https://millcomputing.com/docs/)
 
 - #### :man_teacher: [Computation Structures Course by Chris Terman](https://computationstructures.org/)
 
 - #### :man_teacher: [Computer Architecture Course by Andrei Tatarnikov](https://andrewt0301.github.io/hse-acos-course/)
+
+- #### :book: [Data-Oriented Design Resources by Daniele Bartolini](https://github.com/dbartolini/data-oriented-design)
 
 - #### :man_teacher: [Computer Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse410/)
 
@@ -250,13 +250,15 @@
 
 - #### :man_teacher: [Concepts in Multicore Computing Course by Angelina Lee](https://www.cse.wustl.edu/~angelee/archive/cse539/spr15/)
 
-- #### :man_teacher: [Performance-Aware Programming Videos by Casey Muratori](https://www.computerenhance.com/p/table-of-contents)
-
 - #### :man_teacher: [Applications of Parallel Computers Course by David Bindel](https://www.cs.cornell.edu/courses/cs5220/2020fa/)
+
+- #### :tv: [Introduction to Computer Science Videos by Patrick Young](https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN)
 
 - #### :tv: [Building a Simple Computer From Scratch Videos by Bitwise](https://www.youtube.com/playlist?list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX)
 
 - #### :man_teacher: [Computer Architecture Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse470/)
+
+- #### :man_teacher: [Performance-Aware Programming Videos by Casey Muratori](https://www.computerenhance.com/p/table-of-contents)
 
 - #### :man_teacher: [Introduction to Computer Systems Course by Thomas Doeppner](https://cs0330-fall21.github.io/)
 
