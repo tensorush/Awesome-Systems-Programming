@@ -214,6 +214,8 @@
 
 - #### :writing_hand: [Computer Organisation Notes by Jiahao](https://nus.woojiahao.com/)
 
+- #### :tv: [CPU Architecture Videos by Mill Computing, Inc.](https://millcomputing.com/docs/)
+
 - #### :tv: [Systems Programming Videos by Brook Jeynes](https://www.youtube.com/@chooky_)
 
 - #### :book: [Data-Oriented Design Resources by Daniele Bartolini](https://github.com/dbartolini/data-oriented-design)
