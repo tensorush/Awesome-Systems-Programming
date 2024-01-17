@@ -504,6 +504,8 @@
 
 - #### :book: [Distributed Systems for Fun and Profit Book by Mikito Takada](https://book.mixu.net/distsys/)
 
+- #### :book: [Patterns of Distributed Systems Book by Unmesh Joshi](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+
 - #### :book: [Rust Atomics and Locks: Low-Level Concurrency in Practice Book by Mara Bos](https://marabos.nl/atomics/)
 
 - #### :book: [Computer Networking: A Top-down Approach Book by Jim Kurose and Keith Ross](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
@@ -595,6 +597,8 @@
 - #### :man_teacher: [Operating Systems Graduate Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse551/)
 
 - #### :man_teacher: [Introduction to Operating Systems Course by Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/Classes/537/Fall2021/)
+
+- #### :book: [Operating Systems: Three Easy Pieces Book by Remzi Arpaci-Dusseau](https://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 - #### :man_teacher: [Baking Pi – Operating Systems Development Course by Alex Chadwick](https://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/)
 
