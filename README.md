@@ -394,9 +394,13 @@
 
 - #### :man_teacher: [Foundations of Embedded Systems Course by Cesare Tinelli](http://homepage.cs.uiowa.edu/~tinelli/classes/4980/Spring20/)
 
+- #### :tv: [Raspberry Pi Pico and RP2040: Deep Dive Videos by Uri Shaked](https://www.youtube.com/playlist?list=PL_tws4AXg7auiZHZsL-qfrXoMiUONBB0U)
+
 - #### :man_teacher: [Software for Embedded Systems Course from Univerity of Washington](https://courses.cs.washington.edu/courses/cse466/)
 
 - #### :man_teacher: [Introduction to Embedded Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse474/)
+
+- #### :tv: [AVR: Architecture, Assembly and Reverse Engineering Videos by Uri Shaked](https://www.youtube.com/playlist?list=PL_tws4AXg7avNexvQxkfxfEBtvTtBi6Tu)
 
 ### :rooster: Formal Verification
 
