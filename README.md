@@ -258,7 +258,9 @@
 
 - #### :man_teacher: [Computer Architecture Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse470/)
 
-- #### :man_teacher: [Performance-Aware Programming Videos by Casey Muratori](https://www.computerenhance.com/p/table-of-contents)
+- #### :man_teacher: [Performance-Aware Programming Course by Casey Muratori](https://www.computerenhance.com/p/table-of-contents)
+
+- #### :tv: [Terminal Performance Optimization Videos by Casey Muratori](https://www.youtube.com/playlist?list=PLEMXAbCVnmY6zCgpCFlgggRkrp0tpWfrn)
 
 - #### :man_teacher: [Introduction to Computer Systems Course by Thomas Doeppner](https://cs0330-fall21.github.io/)
 
