@@ -1,4 +1,4 @@
-# :sunglasses: :bulb: **Awesome Systems Learning**
+# :sunglasses: :bulb: **Awesome Systems Programming**
 
 <p align="center">
     <img src="https://bleuje.github.io/gifset/2018/gifs/2018_45_hexagonpath.gif">
