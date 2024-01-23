@@ -154,11 +154,15 @@
 
 - #### :tv: [Compilers Videos by Ghassan Shobaki](https://www.youtube.com/playlist?list=PL6KMWPQP_DM97Hh0PYNgJord-sANFTI3i)
 
+- #### :tv: [The Sea of Nodes Video by Cliff Click](https://www.youtube.com/watch?v=98lt45Aj8mo)
+
 - #### :man_teacher: [Compiler Design Course by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/15411-f14/)
 
 - #### :man_teacher: [Compiler Construction Course by Pat Morin](https://cglab.ca/~morin/teaching/3002/)
 
 - #### :movie_camera: [Zig Compiler Live Streams by Andrew Kelley](https://vimeo.com/andrewrk)
+
+- #### :tv: [Coffee Compiler Club Videos by Cliff Click](https://www.youtube.com/playlist?list=PL05j31Knswhn7RLk-VKHZ6RI4e9D4d-6e)
 
 - #### :tv: [Creating a Compiler Videos by Joel Yliluoma](https://www.youtube.com/playlist?list=PLzLzYGEbdY5n9ITKUqOuRjXkRU5tMW2Sd)
 
