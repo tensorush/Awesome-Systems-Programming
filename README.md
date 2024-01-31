@@ -504,9 +504,9 @@
 
 - #### :man_teacher: [Computer Communication Networks Course by Rachit Agarwal](https://www.cs.cornell.edu/courses/cs6450/2019fa/)
 
-- #### :man_teacher: [Communication Systems Engineering Course by Eytan Modiano](https://ocw.mit.edu/courses/16-36-communication-systems-engineering-spring-2009/)
-
 - #### :tv: [Introduction to Computer Networking Course by Keith Winstein](https://cs144.github.io/)
+
+- #### :man_teacher: [Communication Systems Engineering Course by Eytan Modiano](https://ocw.mit.edu/courses/16-36-communication-systems-engineering-spring-2009/)
 
 - #### :tv: [Information, Computing, Communication Videos by Philippe Janson](https://www.youtube.com/playlist?list=PLie7a1OUTSahuQi1tytxU7BIY3twTNTcn)
 
@@ -514,9 +514,15 @@
 
 - #### :man_teacher: [Data Communication Networks Course by Dimitri Bertsekas and Eytan Modiano](https://ocw.mit.edu/courses/6-263j-data-communication-networks-fall-2002/)
 
+- #### :book: [Patterns of Distributed Systems Book by Unmesh Joshi](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+
+- #### :book: [Beej's Guide to Networking Concepts Book by Brian Hall](https://beej.us/guide/bgnet0/)
+
+- #### :book: [Beej's Guide to Network Programming Book by Brian Hall](https://beej.us/guide/bgnet/)
+
 - #### :book: [Distributed Systems for Fun and Profit Book by Mikito Takada](https://book.mixu.net/distsys/)
 
-- #### :book: [Patterns of Distributed Systems Book by Unmesh Joshi](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+- #### :book: [Beej's Guide to Interprocess Communication Book by Brian Hall](https://beej.us/guide/bgipc/)
 
 - #### :book: [Rust Atomics and Locks: Low-Level Concurrency in Practice Book by Mara Bos](https://marabos.nl/atomics/)
 
