@@ -78,6 +78,8 @@
 
 ### :chains: Blockchain Technology
 
+- #### :man_teacher: [Zero Knowledge Proofs Course](https://zk-learning.org/)
+
 - #### :man_teacher: [CryptoZombies Solidity Courses](https://cryptozombies.io/en/course/)
 
 - #### :tv: [Whiteboard Interviews by NEAR](https://www.youtube.com/playlist?list=PL9tzQn_TEuFWweVbfTbaedFdwVrvaYPq4)
