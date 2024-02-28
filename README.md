@@ -452,6 +452,8 @@
 
 - #### :book: [WebRTC For The Curious Book](https://webrtcforthecurious.com/)
 
+- #### :book: [High Performance Browser Networking Book by Ilya Grigorik](https://hpbn.co/)
+
 - #### :man_technologist: [Distributed Systems in Rust Course](https://github.com/pingcap/talent-plan/blob/master/courses/dss/README.md)
 
 - #### :man_technologist: [Low-Level Academy Course by Nikita Baksalyar](https://lowlvl.org/)
