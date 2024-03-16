@@ -446,6 +446,8 @@
 
 - #### :man_teacher: [Formal Mathematics and Proof Assistants Course by Josef Urban and Chad Brown](http://arg.ciirc.cvut.cz/fmpa/)
 
+- #### :man_teacher: [Great Ideas in Theoretical Computer Science Course by Anil Ada and Anupam Gupta](https://www.cs251.com/)
+
 ### :spider_web: Distributed Systems
 
 - #### :tv: [The Internet Videos by Brian Will](https://www.youtube.com/playlist?list=PL18AF3812A53E11C5)
