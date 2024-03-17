@@ -19,11 +19,12 @@
 - [:cityscape: Computer Architecture](#cityscape-computer-architecture)
 - [:shield: Computer Security](#shield-computer-security)
 - [:card_file_box: Database Systems](#card_file_box-database-systems)
+- [:spider_web: Distributed Systems](#spider_web-distributed-systems)
 - [:test_tube: Debugging and Testing](#test_tube-debugging-and-testing)
 - [:bed: Embedded Systems](#bed-embedded-systems)
 - [:rooster: Formal Verification](#rooster-formal-verification)
-- [:spider_web: Distributed Systems](#spider_web-distributed-systems)
 - [:lady_beetle: Operating Systems](#lady_beetle-operating-systems)
+- [:twisted_rightwards_arrows: Parallel Programming](#twisted_rightwards_arrows-parallel-programming)
 - [:space_invader: Platform Simulation](#space_invader-platform-simulation)
 - [:jigsaw: Programming Language Design](#jigsaw-programming-language-design)
 - [:rewind: Reverse Engineering](#rewind-reverse-engineering)
@@ -218,6 +219,8 @@
 
 - #### :tv: [Handmade Cities Videos](https://vimeo.com/handmadecities)
 
+- #### :globe_with_meridians: [Memory Management Reference Web Site](https://www.memorymanagement.org/)
+
 - #### :writing_hand: [Computer Organisation Notes by Jiahao](https://nus.woojiahao.com/)
 
 - #### :tv: [Computation Structures Videos from MIT](https://www.youtube.com/c/VladimirVivien/playlists)
@@ -226,7 +229,7 @@
 
 - #### :man_teacher: [The Great ISAs Course by Adrian Sampson](https://www.cs.cornell.edu/courses/cs7491/2020sp/)
 
-- #### :globe_with_meridians: [Memory Management Reference Web Site](https://www.memorymanagement.org/)
+- #### :globe_with_meridians: [How Microchips Work Web Site](https://exclusivearchitecture.com/03-technical-articles-IC-00-table-of-contents.html)
 
 - #### :man_teacher: [Systems Principles Course by Lorenzo Alvisi](https://www.cs.cornell.edu/courses/cs6411/2018sp/)
 
@@ -255,8 +258,6 @@
 - #### :man_teacher: [Computer System Engineering Course by Katrina LaCurts](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/)
 
 - #### :man_teacher: [Concepts in Multicore Computing Course by Angelina Lee](https://www.cse.wustl.edu/~angelee/archive/cse539/spr15/)
-
-- #### :man_teacher: [Applications of Parallel Computers Course by David Bindel](https://www.cs.cornell.edu/courses/cs5220/2020fa/)
 
 - #### :tv: [Introduction to Computer Science Videos by Patrick Young](https://www.youtube.com/playlist?list=PLoROMvodv4rPzLcXBhbCFt8ahPrQGFSmN)
 
@@ -382,72 +383,6 @@
 
 - #### :man_teacher: [Principles of Database Management Systems Graduate Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse544/)
 
-### :test_tube: Debugging and Testing
-
-- #### :man_teacher: [Software Testing Course by Owolabi Legunsen](https://www.cs.cornell.edu/courses/cs5154/2021fa/)
-
-- #### :thought_balloon: [Writing a Linux Debugger Blog Posts by Sy Brand](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
-
-- #### :tv: [Advanced Debugging with GDB Video by Viktor Engelmann](https://www.youtube.com/watch?v=Rudz-uSdWHM)
-
-### :bed: Embedded Systems
-
-- #### :tv: [IEEE Videos from UCLA](https://www.youtube.com/c/UCLAIEEE/playlists)
-
-- #### :globe_with_meridians: [Zig Embedded Group Web Site](https://zeg.random-projects.net/)
-
-- #### :tv: [Embedded Systems Architecture Videos by Ben Juurlink](https://www.youtube.com/channel/UCPSsA8oxlSBjidJsSPdpjsQ/playlists)
-
-- #### :man_teacher: [Real-time and Embedded Software Course by Milda Zizyte](http://cs.brown.edu/courses/csci1600/)
-
-- #### :man_teacher: [Foundations of Embedded Systems Course by Cesare Tinelli](http://homepage.cs.uiowa.edu/~tinelli/classes/4980/Spring20/)
-
-- #### :tv: [Raspberry Pi Pico and RP2040: Deep Dive Videos by Uri Shaked](https://www.youtube.com/playlist?list=PL_tws4AXg7auiZHZsL-qfrXoMiUONBB0U)
-
-- #### :man_teacher: [Software for Embedded Systems Course from Univerity of Washington](https://courses.cs.washington.edu/courses/cse466/)
-
-- #### :man_teacher: [Introduction to Embedded Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse474/)
-
-- #### :tv: [AVR: Architecture, Assembly and Reverse Engineering Videos by Uri Shaked](https://www.youtube.com/playlist?list=PL_tws4AXg7avNexvQxkfxfEBtvTtBi6Tu)
-
-### :rooster: Formal Verification
-
-- #### :film_projector: [Types Project Lecture Slides](https://www.cse.chalmers.se/research/group/logic/Types/tutorials.html)
-
-- #### :book: [Software Foundations Book Series](https://softwarefoundations.cis.upenn.edu/)
-
-- #### :tv: [Model Checking Videos by B. Srivathsan](https://www.youtube.com/playlist?list=PLK50zIm6tHRiKFJvKu1a7q_z2tcXnBUHp)
-
-- #### :man_teacher: [Proof Automation Course by Talia Ringer](https://dependenttyp.es/classes/598fa2022.html)
-
-- #### :man_teacher: [Logic and Verification Courses from TUM](https://www21.in.tum.de/teaching.html)
-
-- #### :man_teacher: [The TLA+ Video Course by Leslie Lamport](https://lamport.azurewebsites.net/video/videos.html)
-
-- #### :man_teacher: [Constructive Logic Course by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/15317-f17/)
-
-- #### :man_teacher: [Runtime Verification Course by Owolabi Legunsen](https://www.cs.cornell.edu/courses/cs6156/2022sp/)
-
-- #### :globe_with_meridians: [DeepSpec Summer School on Verified Systems Web Site](https://deepspec.org/event/dsss17/index.html)
-
-- #### :man_teacher: [Safety in Systems Programming Course by Thea Rossman](https://web.stanford.edu/class/cs110l/)
-
-- #### :man_teacher: [Formal Methods of Software Design Course by Eric Hehner](http://www.cs.toronto.edu/~hehner/FMSD/)
-
-- #### :man_teacher: [Systems and Formal Methods Course by Robbert van Renesse](https://www.cs.cornell.edu/courses/cs6480/2020sp/)
-
-- #### :tv: [Introduction to Model Checking Videos by Joost-Pieter Katoen](https://www.youtube.com/playlist?list=PLwabKnOFhE38C0o6z_bhlF_uOUlblDTjh)
-
-- #### :man_teacher: [Formal Methods in Software Engineering Course by Cesare Tinelli](http://homepage.cs.uiowa.edu/~tinelli/classes/5810/Fall22/)
-
-- #### :man_teacher: [Formal Methods in Software Development Course by Laura Dillon](https://www.cse.msu.edu/~cse814/)
-
-- #### :man_teacher: [Certified System Software Course by Greg Morrisett and Andrew Myers](https://www.cs.cornell.edu/courses/cs6115/2017fa/)
-
-- #### :man_teacher: [Formal Mathematics and Proof Assistants Course by Josef Urban and Chad Brown](http://arg.ciirc.cvut.cz/fmpa/)
-
-- #### :man_teacher: [Great Ideas in Theoretical Computer Science Course by Anil Ada and Anupam Gupta](https://www.cs251.com/)
-
 ### :spider_web: Distributed Systems
 
 - #### :tv: [The Internet Videos by Brian Will](https://www.youtube.com/playlist?list=PL18AF3812A53E11C5)
@@ -530,8 +465,6 @@
 
 - #### :book: [Beej's Guide to Interprocess Communication Book by Brian Hall](https://beej.us/guide/bgipc/)
 
-- #### :book: [Rust Atomics and Locks: Low-Level Concurrency in Practice Book by Mara Bos](https://marabos.nl/atomics/)
-
 - #### :book: [Computer Networking: A Top-down Approach Book by Jim Kurose and Keith Ross](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 
 - #### :book: [Computer Networks: A Systems Approach Book by Larry Peterson and Bruce Davie](https://book.systemsapproach.org/)
@@ -543,6 +476,72 @@
 - #### :man_teacher: [Computer Communication and Networks Graduate Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse561/)
 
 - #### :man_teacher: [Introduction to Computer Communication Networks Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse461/)
+
+### :test_tube: Debugging and Testing
+
+- #### :man_teacher: [Software Testing Course by Owolabi Legunsen](https://www.cs.cornell.edu/courses/cs5154/2021fa/)
+
+- #### :thought_balloon: [Writing a Linux Debugger Blog Posts by Sy Brand](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+
+- #### :tv: [Advanced Debugging with GDB Video by Viktor Engelmann](https://www.youtube.com/watch?v=Rudz-uSdWHM)
+
+### :bed: Embedded Systems
+
+- #### :tv: [IEEE Videos from UCLA](https://www.youtube.com/c/UCLAIEEE/playlists)
+
+- #### :globe_with_meridians: [Zig Embedded Group Web Site](https://zeg.random-projects.net/)
+
+- #### :tv: [Embedded Systems Architecture Videos by Ben Juurlink](https://www.youtube.com/channel/UCPSsA8oxlSBjidJsSPdpjsQ/playlists)
+
+- #### :man_teacher: [Real-time and Embedded Software Course by Milda Zizyte](http://cs.brown.edu/courses/csci1600/)
+
+- #### :man_teacher: [Foundations of Embedded Systems Course by Cesare Tinelli](http://homepage.cs.uiowa.edu/~tinelli/classes/4980/Spring20/)
+
+- #### :tv: [Raspberry Pi Pico and RP2040: Deep Dive Videos by Uri Shaked](https://www.youtube.com/playlist?list=PL_tws4AXg7auiZHZsL-qfrXoMiUONBB0U)
+
+- #### :man_teacher: [Software for Embedded Systems Course from Univerity of Washington](https://courses.cs.washington.edu/courses/cse466/)
+
+- #### :man_teacher: [Introduction to Embedded Systems Course from Univerity of Washington](http://courses.cs.washington.edu/courses/cse474/)
+
+- #### :tv: [AVR: Architecture, Assembly and Reverse Engineering Videos by Uri Shaked](https://www.youtube.com/playlist?list=PL_tws4AXg7avNexvQxkfxfEBtvTtBi6Tu)
+
+### :rooster: Formal Verification
+
+- #### :film_projector: [Types Project Lecture Slides](https://www.cse.chalmers.se/research/group/logic/Types/tutorials.html)
+
+- #### :book: [Software Foundations Book Series](https://softwarefoundations.cis.upenn.edu/)
+
+- #### :tv: [Model Checking Videos by B. Srivathsan](https://www.youtube.com/playlist?list=PLK50zIm6tHRiKFJvKu1a7q_z2tcXnBUHp)
+
+- #### :man_teacher: [Proof Automation Course by Talia Ringer](https://dependenttyp.es/classes/598fa2022.html)
+
+- #### :man_teacher: [Logic and Verification Courses from TUM](https://www21.in.tum.de/teaching.html)
+
+- #### :man_teacher: [The TLA+ Video Course by Leslie Lamport](https://lamport.azurewebsites.net/video/videos.html)
+
+- #### :man_teacher: [Constructive Logic Course by Frank Pfenning](https://www.cs.cmu.edu/~fp/courses/15317-f17/)
+
+- #### :man_teacher: [Runtime Verification Course by Owolabi Legunsen](https://www.cs.cornell.edu/courses/cs6156/2022sp/)
+
+- #### :globe_with_meridians: [DeepSpec Summer School on Verified Systems Web Site](https://deepspec.org/event/dsss17/index.html)
+
+- #### :man_teacher: [Safety in Systems Programming Course by Thea Rossman](https://web.stanford.edu/class/cs110l/)
+
+- #### :man_teacher: [Formal Methods of Software Design Course by Eric Hehner](http://www.cs.toronto.edu/~hehner/FMSD/)
+
+- #### :man_teacher: [Systems and Formal Methods Course by Robbert van Renesse](https://www.cs.cornell.edu/courses/cs6480/2020sp/)
+
+- #### :tv: [Introduction to Model Checking Videos by Joost-Pieter Katoen](https://www.youtube.com/playlist?list=PLwabKnOFhE38C0o6z_bhlF_uOUlblDTjh)
+
+- #### :man_teacher: [Formal Methods in Software Engineering Course by Cesare Tinelli](http://homepage.cs.uiowa.edu/~tinelli/classes/5810/Fall22/)
+
+- #### :man_teacher: [Formal Methods in Software Development Course by Laura Dillon](https://www.cse.msu.edu/~cse814/)
+
+- #### :man_teacher: [Certified System Software Course by Greg Morrisett and Andrew Myers](https://www.cs.cornell.edu/courses/cs6115/2017fa/)
+
+- #### :man_teacher: [Formal Mathematics and Proof Assistants Course by Josef Urban and Chad Brown](http://arg.ciirc.cvut.cz/fmpa/)
+
+- #### :man_teacher: [Great Ideas in Theoretical Computer Science Course by Anil Ada and Anupam Gupta](https://www.cs251.com/)
 
 ### :lady_beetle: Operating Systems
 
@@ -639,6 +638,32 @@
 - #### :thought_balloon: [The Adventures of OS: Making a RISC-V Operating System using Rust Blog Posts by Stephen Marz](https://osblog.stephenmarz.com/)
 
 - #### :man_technologist: [Learning Operating System Development Using Linux Kernel and Raspberry Pi Tutorial by Sergey Matyukevich](https://github.com/s-matyukevich/raspberry-pi-os)
+
+### :twisted_rightwards_arrows: Parallel Programming
+
+- #### :man_teacher: [Parallel Programming Course by Rezaul Chowdhury](https://www3.cs.stonybrook.edu/~rezaul/CSE613-S19.html)
+
+- #### :man_teacher: [Applied Parallel Programming Course by Steve Lumetta](https://lumetta.web.engr.illinois.edu/408-S20/)
+
+- #### :man_teacher: [Multi-core Parallel Algorithms Course by Steve Lumetta](https://lumetta.web.engr.illinois.edu/508/)
+
+- #### :man_teacher: [Massively Parallel Algorithms Course by Mohsen Ghaffari](https://people.inf.ethz.ch/gmohsen/MPA19/)
+
+- #### :man_teacher: [Applications of Parallel Computers Course by David Bindel](https://www.cs.cornell.edu/courses/cs5220/2020fa/)
+
+- #### :man_teacher: [Multiprocessor Synchronization Course by Maurice Herlihy](https://cs.brown.edu/courses/cs176/lectures.shtml)
+
+- #### :man_teacher: [Parallel and Concurrent Algorithms Course by Guy Blelloch](https://www.cs.cmu.edu/~guyb/paralg/)
+
+- #### :book: [Parallel Computing: Theory and Practice Book by Umut Acar](https://www.cs.cmu.edu/afs/cs/academic/class/15210-f15/www/tapp.html)
+
+- #### :man_teacher: [Parallel Computing Course by Kayvon Fatahalian and Kunle Olukotun](https://gfxcourses.stanford.edu/cs149/fall23)
+
+- #### :man_teacher: [Applications of Parallel Computers Course by Aydin Buluc and others](https://sites.google.com/lbl.gov/cs267-spr2023)
+
+- #### :book: [Rust Atomics and Locks: Low-Level Concurrency in Practice Book by Mara Bos](https://marabos.nl/atomics/)
+
+- #### :man_teacher: [Parallel Computer Architecture and Programming Course by Zhihao Jia and Dimitrios Skarlatos](https://www.cs.cmu.edu/~15418/)
 
 ### :space_invader: Platform Simulation
 
